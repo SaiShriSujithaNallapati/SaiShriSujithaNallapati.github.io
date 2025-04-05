@@ -1,4 +1,4 @@
-text-align: center:
+text-align: center;
 # Welcome to WeightWize 
 
 ## Information 
