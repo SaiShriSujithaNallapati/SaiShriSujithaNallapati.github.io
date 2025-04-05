@@ -1,4 +1,5 @@
 # WeightWize
-# h1 Welcome to WeightWize 
+# Welcome to WeightWize 
 
-## Horizontal Rules 
+## Information 
+## This website is designed to generate a perfect diet plan for you! Wheather you want to lose weight or gain weight
