@@ -26,7 +26,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6cEpl6aasfHaqrI1eFphrUQtTGUszqt6MW0xa
 
 <p align="center"> <strong>Below is an overview of some food categories to eat from to lose or gain weight.
 
-<p align="center">Lose Weight | Gain Weight
+Lose Weight | Gain Weight
 -|-
 Fiber-Rich Diet | Calorie-Dense Diet
 Whole Grain Diet | Starchy Diet
@@ -36,7 +36,7 @@ Avoid Carbohydrates | Dried Fruits
 Avoid Foods With Added Sugars | Whole Foods
 Low-Calorie Beverages | High-Calorie Beverages
 
-### Additional Tips & Tricks
+<p align="center"> <strong>Additional Tips & Tricks
 
 Lose Weight | Gain Weight
 -|-
