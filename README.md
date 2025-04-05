@@ -26,20 +26,7 @@ Lose Weight | Gain Weight
 Fiber-Rich Diet | Calorie-Dense Diet
 Whole Grain Diet | Starchy Diet
 
-<table>
-  <tr>
-    <th>First Header</th>
-    <th>Second Header</th>
-  </tr>
-  <tr>
-    <td>Content from cell 1</td>
-    <td>Content from cell 2</td>
-  </tr>
-  <tr>
-    <td>Content in the first column</td>
-    <td>Content in the second column</td>
-  </tr>
-</table>
+
 
 
 
