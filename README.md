@@ -1,5 +1,5 @@
 # WeightWize
-# Welcome to WeightWize 
+# Welcome to WeightWize  
 
 ## Information 
 ##  At WeightWize we believe that diet is all about balance not just restriction! Whether you want to loose weight or gain Weight, WeightWize has the perfect plan for you. This website is designed to generate the "perfect" diet plan for you! With a small questionnaire, WeightWize will come up with a diet plan based on your likes and dislikes in your food choices. 
