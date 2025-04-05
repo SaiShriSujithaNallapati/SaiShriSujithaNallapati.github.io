@@ -1,4 +1,6 @@
-text-align: center;
+h1 { 
+  text-align: center;
+}
 # Welcome to WeightWize 
 
 ## Information 
