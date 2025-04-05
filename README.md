@@ -41,7 +41,7 @@ Avoid Foods With Added Sugars | Whole Foods
 Low-Calorie Beverages | High-Calorie Beverages
 
 ***
-<hr/>
+<hr/> 
 
 <p align="center"> <strong>Additional Tips & Tricks
 
