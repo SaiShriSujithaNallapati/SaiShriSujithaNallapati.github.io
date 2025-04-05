@@ -21,6 +21,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6cEpl6aasfHaqrI1eFphrUQtTGUszqt6MW0xa
 3. Vegan
 4. Atopic (have allergies)
 
+<p align="center"> <strong>Below is an overview of some food categories to eat from to lose or gain weight.
+
 Lose Weight | Gain Weight
 -|-
 Fiber-Rich Diet | Calorie-Dense Diet
