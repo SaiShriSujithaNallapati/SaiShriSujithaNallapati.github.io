@@ -25,6 +25,11 @@ Lose Weight | Gain Weight
 -|-
 Fiber-Rich Diet | Calorie-Dense Diet
 Whole Grain Diet | Starchy Diet
+Unprocessed Foods | Lean Meats
+Lean Protein | Oils
+Avoid Carbohydrates | Dried Fruits
+Avoid Foods With Added Sugars | Whole Foods
+Low-Calorie Beverages | High-Calorie Beverages
 
 
 
