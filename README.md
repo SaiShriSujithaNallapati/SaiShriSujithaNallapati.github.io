@@ -11,4 +11,10 @@
 
 ## Click on the link below for the survey about yourself. 
 
+# We provide diet plans for every type of individual. For example if you are;
+1. Non-Vegetarian
+2. Vegetarian
+3. Vegan
+4. Atopic (have allergies)
+
 
