@@ -1,6 +1,5 @@
-<p align="center"> WeightWize
   
-<p align="center"> <strong>Welcome to</strong> WeightWize</strong> 
+<p align="center"> <strong>WeightWize 
   
 ***
 ---
