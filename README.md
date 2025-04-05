@@ -36,7 +36,14 @@ Avoid Carbohydrates | Dried Fruits
 Avoid Foods With Added Sugars | Whole Foods
 Low-Calorie Beverages | High-Calorie Beverages
 
+### Additional Tips & Tricks
 
+Lose Weight | Gain Weight
+-|-
+Control Portion Sizes | Increase Portion Sizes
+Stay Hydrated | Stay Hydrated
+Sleep | Have Snacks Between Meals
+Be Consistent | Don't Skip Meals
 
 
 
