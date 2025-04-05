@@ -1,4 +1,4 @@
-#                                       WeightWize
+# WeightWize-align: center
 # Welcome to WeightWize 
 
 ## Information 
