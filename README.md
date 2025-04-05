@@ -2,7 +2,6 @@
 <p align="center"> <strong>WeightWize 
   
 ***
----
 <hr/>
 
 # Information 
