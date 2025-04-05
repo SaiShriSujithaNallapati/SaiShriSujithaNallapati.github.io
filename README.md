@@ -1,7 +1,8 @@
 
 <p align="center"> <strong>WeightWize  
 
-### [Welcome To WeightWize]((https://github.com/user-attachments/assets/43f74b92-3042-4f43-a65c-f857f8a32d2f))
+### [Welcome To WeightWize]![Enter Text (1)](https://github.com/user-attachments/assets/44d095c0-bf08-4f6a-afac-3d407d7b9810)
+
 
 
   
