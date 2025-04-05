@@ -1,4 +1,4 @@
-&nbsp ; # WeightWize
+.center(WeightWize)
 # Welcome to WeightWize 
 
 ## Information 
