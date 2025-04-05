@@ -1,7 +1,9 @@
 
 <p align="center"> <strong>WeightWize  
 
-## Welcome To WeightWize
+## [Welcome To WeightWize]![Enter Text (1)](https://github.com/user-attachments/assets/73807fc0-a775-4468-b6f9-525d460084c8)
+)
+
   
 *** 
 <hr/>
