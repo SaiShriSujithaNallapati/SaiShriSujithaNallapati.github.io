@@ -1,6 +1,6 @@
 <p align="center"> WeightWize
   
-# Welcome to WeightWize  
+<p align="center"> # Welcome to WeightWize  
 
 ***
 ---
