@@ -56,7 +56,8 @@ Be Consistent | Don't Skip Meals
 ***
 <hr/> 
 
-### [Completed Example] (https://github.com/SaiShriSujithaNallapati/SaiShriSujitha.github.io/blob/main/README.md)
+### [Completed Example](https://github.com/SaiShriSujithaNallapati/SaiShriSujitha.github.io/blob/main/README.md)
+
 
 
 
