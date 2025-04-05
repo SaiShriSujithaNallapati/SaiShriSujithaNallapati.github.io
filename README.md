@@ -53,4 +53,11 @@ Sleep | Have Snacks Between Meals
 Be Consistent | Don't Skip Meals
 
 
+***
+<hr/> 
+
+### Completed Example
+
+
+
 
