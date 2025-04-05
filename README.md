@@ -21,10 +21,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6cEpl6aasfHaqrI1eFphrUQtTGUszqt6MW0xa
 3. Vegan
 4. Atopic (have allergies)
 
-First Header | Second Header
+Lose Weight | Gain Weight
 -|-
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Fiber-Rich Diet | Calorie-Dense Diet
+Whole Grain Diet | Starchy Diet
 
 <table>
   <tr>
