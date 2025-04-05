@@ -1,4 +1,4 @@
-<p align="center"> # WeightWize
+<p align="center"> WeightWize
   
 # Welcome to WeightWize  
 
