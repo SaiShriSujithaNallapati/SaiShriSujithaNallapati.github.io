@@ -2,7 +2,7 @@
 
 
    
-<p align="center"> <strong>WeightWize 
+<p align="center"> <strong>WeightWize  
   
 *** 
 <hr/>
